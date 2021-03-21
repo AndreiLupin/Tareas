@@ -1,0 +1,15 @@
+Algoritmo Ejercicio1
+	Escribir "Digite un numero"
+	Leer numero
+	
+	si (numero > 10 ) 
+		Escribir "El numero es mayor que 10"
+	SiNo
+		Escribir "El numero es menor que 10"
+	FinSi
+	
+	Si (numero = 10)
+		Escribir "Elnumero es 10"
+	FinSi
+	
+FinAlgoritmo
